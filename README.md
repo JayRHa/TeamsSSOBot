@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides archived Microsoft Teams SSO bot sample and experimentation project.
+Archived Microsoft Teams SSO bot sample and experimentation project.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
