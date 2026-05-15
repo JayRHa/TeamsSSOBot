@@ -12,6 +12,12 @@ Authenticate. Authorize. Respond.
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/TeamsSSOBot?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/TeamsSSOBot/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/TeamsSSOBot?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/TeamsSSOBot/graphs/contributors)
 
+<p>
+  <a href="https://jannikreinhard.com/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a>
+</p>
+
 ---
 
 `Teams SSO` | `JavaScript` | `Public` | `Archived`
